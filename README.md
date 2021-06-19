@@ -48,6 +48,7 @@ I'm A JavaScript Developer
     
 <br />
 <br />
+<hr />
     ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
