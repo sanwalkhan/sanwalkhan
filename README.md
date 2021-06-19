@@ -22,7 +22,7 @@ I'm A JavaScript Developer
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -33,7 +33,7 @@ I'm A JavaScript Developer
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
+        
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
