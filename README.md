@@ -11,6 +11,15 @@ I'm A JavaScript Developer
 - 🥅 2021 Goals: to be a Front-end Developer.
 
 
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sanwal-khan-3ab140203/"><img src="https://img.shields.io/badge/-Sanwal%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="thissanwalkhan@gmail.com"><img src="https://img.shields.io/badge/-sanwalkhan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/this____sanwal/"><img src="https://img.shields.io/badge/-@this___sanwal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/sanwal.awan.777"><img src="https://img.shields.io/badge/-@MalikSanwalAwan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
+
 ### Languages and Tools:
 
 <table width="100">
@@ -50,14 +59,8 @@ I'm A JavaScript Developer
 <br />
 <hr />
    
- <div>
-   ## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sanwal-khan-3ab140203/"><img src="https://img.shields.io/badge/-Sanwal%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="thissanwalkhan@gmail.com"><img src="https://img.shields.io/badge/-sanwalkhan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/this____sanwal/"><img src="https://img.shields.io/badge/-@this___sanwal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/sanwal.awan.777"><img src="https://img.shields.io/badge/-@MalikSanwalAwan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>      
- <div />
+ 
+      
+ 
 
         
