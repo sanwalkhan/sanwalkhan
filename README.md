@@ -28,7 +28,7 @@ I'm A JavaScript Developer
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" height="60" width="100">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="60" width="100">
     </td>
 </tr>
 <tr>
@@ -42,6 +42,6 @@ I'm A JavaScript Developer
         <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" width="60">
     </td>
     <td align='center'>
-        <img src="https://geekflare.com/wp-content/uploads/2019/11/jupyter-1200x385.jpg" width="60">
+        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
     </td>
 </tr>
