@@ -28,7 +28,7 @@ I'm A JavaScript Developer
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://www.seekpng.com/png/detail/410-4104604_here-is-how-to-add-a-shortcut-of.png" height="60" width="60">
+        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" height="60" width="100">
     </td>
 </tr>
 <tr>
