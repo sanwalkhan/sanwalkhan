@@ -36,15 +36,12 @@ I'm A JavaScript Developer
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="60" width="60">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" width="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://geekflare.com/wp-content/uploads/2019/11/jupyter-1200x385.jpg" width="60">
     </td>
 </tr>
