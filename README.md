@@ -48,10 +48,4 @@ I'm A JavaScript Developer
     
     
     
- ## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sanwal-khan-3ab140203/"><img src="https://img.shields.io/badge/-Sanwal%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadhaxxan@ieee.org"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+ asjd
