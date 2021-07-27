@@ -48,7 +48,7 @@ I'm A JavaScript Developer
         <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="60">
     </td>
 </tr>
     
