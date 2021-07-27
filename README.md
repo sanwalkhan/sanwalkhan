@@ -47,6 +47,9 @@ I'm A JavaScript Developer
     <td align='center'>
         <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
     </td>
+    <td align='center'>
+        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
+    </td>
 </tr>
     
 
