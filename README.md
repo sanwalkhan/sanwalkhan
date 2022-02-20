@@ -36,19 +36,19 @@ I'm A JavaScript Developer
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="60" width="60">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="60" width="100">
     </td>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
     </td>
     <td align='center'>
-        <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" width="60">
+        <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" width="100">
     </td>
     <td align='center'>
-        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="60">
+        <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="100">
     </td>
 </tr>
 <tr>
