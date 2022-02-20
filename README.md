@@ -51,5 +51,10 @@ I'm A JavaScript Developer
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="60">
     </td>
 </tr>
+<tr>
+<td align = center>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="60">
+</td>
+</tr>
     
 
