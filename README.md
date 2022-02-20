@@ -53,7 +53,7 @@ I'm A JavaScript Developer
 </tr>
 <tr>
 <td align = center>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="60">
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flh4.googleusercontent.com%2FsBaxDLU9jP8BOaB8vNld8Yu_dv7V3HZGBNBHiguET93-VXWxm1tO3J6PtAWEg46cBAicYGZtZEMwRdYO3NYJUKBrEIT18-KvRUAMIHzQ_Q1sagcKZa3hyKVR4hJaf4VpTV3hoAoa&imgrefurl=https%3A%2F%2Fblog.knoldus.com%2Fgetting-started-with-reactjs%2F&tbnid=t1SVGjCvK-g4CM&vet=12ahUKEwjRhPf96Y32AhVxBGMBHZFKCiQQMygEegUIARDdAQ..i&docid=kwysyKExv6kgXM&w=600&h=323&q=reactjs&ved=2ahUKEwjRhPf96Y32AhVxBGMBHZFKCiQQMygEegUIARDdAQ" width="60">
 </td>
 </tr>
     
