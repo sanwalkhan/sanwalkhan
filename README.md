@@ -8,7 +8,6 @@ I'm A JavaScript Developer
 - 👯 I’m looking to collaborate with other React developers.
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/His
-- 🥅 2022 Goals: to be a Front-end Developer.
 
 
 
