@@ -4,7 +4,7 @@
 
 I'm A JavaScript Developer 
 <!-- - 🔭 I’m currently working on React. -->
-- 🌱 I’m currently learning React.Js & React Native
+- 🌱 I’m currently learning React.Js 
 - 👯 I’m looking to collaborate with other React developers.
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/His
