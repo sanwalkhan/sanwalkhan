@@ -1,147 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Sanwal Khan - JavaScript Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            line-height: 1.6;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-        header h1 {
-            font-size: 2.5rem;
-        }
-        section {
-            padding: 20px;
-            margin: 20px 0;
-        }
-        .container {
-            max-width: 1100px;
-            margin: auto;
-            overflow: hidden;
-            padding: 0 20px;
-        }
-        .content {
-            margin-bottom: 40px;
-        }
-        h2 {
-            color: #333;
-            margin-bottom: 20px;
-            font-size: 1.5rem;
-        }
-        p {
-            font-size: 1.2rem;
-        }
-        ul {
-            list-style: none;
-        }
-        ul li {
-            background: #333;
-            color: #fff;
-            margin-bottom: 10px;
-            padding: 10px;
-            font-size: 1rem;
-        }
-        .tech-stack img {
-            width: 60px;
-            margin: 10px;
-        }
-        footer {
-            text-align: center;
-            padding: 20px;
-            background: #333;
-            color: #fff;
-        }
-        footer a {
-            color: #fff;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Sanwal Khan - JavaScript Developer</h1>
-        <p>JavaScript | MERN Stack | NestJS | Next.js | Blockchain</p>
-    </header>
+### Hi there, I'm Sanwal Khan 👋
 
-    <section class="about container">
-        <div class="content">
-            <h2>About Me</h2>
-            <p>
-                I'm a passionate JavaScript Developer with a comprehensive skill set in MERN Stack, NestJS, Next.js, AWS, and Blockchain development. I love to build scalable, secure applications using cutting-edge technologies. I'm always eager to learn and grow my knowledge in full-stack and blockchain development.
-            </p>
-        </div>
-    </section>
+I'm a passionate **JavaScript Developer** specializing in building full-stack applications using the **MERN** stack, and exploring advanced topics like **Blockchain** and **AWS Cloud Technologies**. I enjoy learning new technologies and solving complex problems through code. My current focus is on enhancing my skills in **React.js**, **Blockchain**, and **Cloud Computing**.
 
-    <section class="currently-learning container">
-        <div class="content">
-            <h2>What I'm Currently Learning</h2>
-            <p>
-                Currently, I'm diving deeper into React.js while honing my skills in Next.js and NestJS for full-stack development. I’m also exploring various blockchain technologies, including smart contracts, Solidity, Ethereum, and Web3.js.
-            </p>
-        </div>
-    </section>
+- 🌱 I’m currently learning **React.js** and **Blockchain Development**.
+- 👯 I’m looking to collaborate with other **React** and **JavaScript** developers on exciting projects.
+- 😄 Pronouns: He/Him
 
-    <section class="skills container">
-        <div class="content">
-            <h2>My Tech Stack & Tools</h2>
-            <ul>
-                <li><strong>Frontend Development:</strong> React.js, Next.js, HTML5/CSS3, Bootstrap, JavaScript</li>
-                <li><strong>Backend Development:</strong> Node.js, Express.js, NestJS, MongoDB</li>
-                <li><strong>Blockchain:</strong> Solidity, Ethereum, Smart Contracts, Web3.js, IPFS</li>
-                <li><strong>Cloud & DevOps:</strong> AWS S3, Docker, Heroku</li>
-                <li><strong>Other Tools:</strong> Git & GitHub, Postman, Figma</li>
-            </ul>
-        </div>
-    </section>
+---
 
-    <section class="blockchain container">
-        <div class="content">
-            <h2>In-Depth Blockchain Experience</h2>
-            <p>
-                I have extensive experience in developing decentralized applications (dApps) on the Ethereum blockchain. I specialize in writing smart contracts using Solidity, and have built various dApps involving token creation (ERC-20, ERC-721), decentralized finance (DeFi), and governance systems. I use tools like Truffle, Ganache, and Remix to test, deploy, and manage smart contracts, along with integrating blockchain solutions into full-stack applications using Web3.js.
-            </p>
-        </div>
-    </section>
+### 🛠 Skills and Expertise:
 
-    <section class="tech-stack container">
-        <h2>Languages and Tools</h2>
-        <div>
-            <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt="JavaScript">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap">
-            <img src="https://tse3.mm.bing.net/th?id=OIP.KN7Rarh00ufEpB6SS2XwnwHaIq&pid=Api&P=0" alt="NestJS">
-            <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" alt="Python">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-            <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" alt="Dart">
-            <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="ReactJS">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" alt="jQuery">
-        </div>
-    </section>
+#### 🚀 Advanced JavaScript:
 
-    <footer>
-        <p>Connect with me:</p>
-        <p>
-            <a href="#">LinkedIn</a> | <a href="#">Twitter</a> | <a href="#">Portfolio</a>
-        </p>
-        <p>Sanwal Khan © 2024</p>
-    </footer>
+- **Asynchronous Programming**: Mastery of promises, async/await, and event loops for writing efficient non-blocking code.
+- **Functional Programming**: Experienced in higher-order functions, closures, and currying to create modular, reusable functions.
+- **ES6+ Features**: Proficient in modern JavaScript features such as arrow functions, destructuring, spread/rest operators, and modules.
 
-</body>
-</html>
+#### 🌐 MERN Stack Development:
+
+- **MongoDB**: Expertise in designing NoSQL databases with Mongoose, optimizing queries, and managing large datasets.
+- **Express.js**: Developed RESTful APIs, handling routing, middleware, and integrating third-party libraries.
+- **React.js**: Built dynamic user interfaces focusing on component-based architecture, hooks, and state management.
+- **Node.js**: Created scalable backend services using Node.js, leveraging asynchronous programming and event-driven architecture.
+
+#### ⛓️ Blockchain Development:
+
+- **Smart Contracts**: Developed and deployed Ethereum smart contracts using Solidity.
+- **Web3.js**: Integrated decentralized apps (dApps) with blockchain using Web3.js for seamless interaction between frontend and blockchain.
+- **DeFi**: Understanding of decentralized finance (DeFi) protocols and the ability to build secure blockchain applications.
+- **NFTs**: Knowledge of ERC-721 and ERC-1155 token standards for non-fungible tokens (NFTs) and asset tokenization.
+
+#### ☁️ AWS Cloud Services:
+
+- **AWS S3**: Expertise in storing and retrieving large-scale data, managing file uploads, and configuring bucket policies for secure access.
+- **AWS Lambda**: Experience with serverless computing using Lambda functions to execute code in response to events.
+- **AWS EC2**: Deployed web applications on scalable EC2 instances, managing security groups, and setting up auto-scaling.
+- **AWS RDS**: Configured and maintained relational databases like MySQL and PostgreSQL using AWS RDS for production-level applications.
+
+---
+
+### 📚 Learning Goals:
+
+- 🔥 Expanding knowledge in **Blockchain scalability** and **Layer 2 solutions** like Optimistic Rollups and zk-SNARKs.
+- 📈 Diving deeper into **Microservices Architecture** and leveraging AWS for managing complex, distributed systems.
+- 💡 Exploring advanced **React** concepts like **server-side rendering** (SSR) with **Next.js**.
+
+---
+
+### 💻 Languages and Tools:
+
+- **JavaScript**: Expertise in modern JavaScript frameworks and libraries.
+- **HTML5**: Proficient in semantic HTML and modern web standards.
+- **CSS3**: Skilled in designing responsive layouts using CSS, Flexbox, and Grid.
+- **Bootstrap**: Experience in building mobile-first responsive designs.
+- **React.js**: Building dynamic single-page applications (SPAs) with React.js.
+- **Python**: Experience in scripting and automation with Python.
+- **C++**: Understanding of object-oriented programming with C++.
+- **Dart**: Working knowledge of Dart for developing mobile applications.
+- **jQuery**: Familiar with using jQuery for DOM manipulation and event handling.
+- **Node.js**: Backend development using Node.js for building scalable server-side applications.
+- **MongoDB**: Database design and query optimization for NoSQL systems.
+- **AWS Cloud Services**: Knowledgeable in S3, Lambda, EC2, and RDS for cloud-based applications.
+
+---
+
+### 🔗 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/thissanwal)
