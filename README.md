@@ -1,57 +1,147 @@
-Hi there, I'm Sanwal Khan 👋
-I'm an enthusiastic JavaScript Developer with a comprehensive skill set in MERN Stack, NestJS, Next.js, AWS, and Blockchain development. My passion is to build scalable and secure applications, leveraging modern technologies to create a robust developer experience.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sanwal Khan - JavaScript Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
+        }
+        .content {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+        }
+        ul {
+            list-style: none;
+        }
+        ul li {
+            background: #333;
+            color: #fff;
+            margin-bottom: 10px;
+            padding: 10px;
+            font-size: 1rem;
+        }
+        .tech-stack img {
+            width: 60px;
+            margin: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sanwal Khan - JavaScript Developer</h1>
+        <p>JavaScript | MERN Stack | NestJS | Next.js | Blockchain</p>
+    </header>
 
-🌱 Currently learning React.js and enhancing my expertise in Next.js and NestJS for full-stack development.
-🔭 Delving into Blockchain technologies, including Smart Contracts, Solidity, Ethereum, and Web3.js.
-👯 Actively seeking collaborations with developers in the React, MERN, and Blockchain space.
-💬 Ask me about JavaScript, NestJS, Blockchain, and Smart Contracts.
-📫 You can reach me at: thissanwalkhan@gmail.com
-😄 Pronouns: He/Him
-🌟 Tech Stack & Tools
-I have hands-on experience with various development technologies and tools:
+    <section class="about container">
+        <div class="content">
+            <h2>About Me</h2>
+            <p>
+                I'm a passionate JavaScript Developer with a comprehensive skill set in MERN Stack, NestJS, Next.js, AWS, and Blockchain development. I love to build scalable, secure applications using cutting-edge technologies. I'm always eager to learn and grow my knowledge in full-stack and blockchain development.
+            </p>
+        </div>
+    </section>
 
-🚀 Frontend Development:
-React.js: Building dynamic, responsive UIs for modern web applications.
-Next.js: Optimizing applications for SEO and fast server-side rendering.
-HTML5/CSS3 & Bootstrap: Crafting mobile-first, responsive designs with ease.
-JavaScript: Extensive experience in writing clean, maintainable code.
-⚙️ Backend Development:
-Node.js & Express.js: Building scalable, efficient REST APIs.
-NestJS: Using a modular architecture for server-side development.
-MongoDB: Handling NoSQL database operations with ease using Mongoose ODM.
-🧑‍💻 Blockchain Development:
-Ethereum: Developing decentralized applications (dApps) on the Ethereum blockchain.
-Smart Contracts: Writing and deploying smart contracts using Solidity.
-Web3.js: Integrating the front-end of applications with the Ethereum blockchain for decentralized interaction.
-Truffle: Development framework for testing and deploying smart contracts.
-Ganache: Local Ethereum blockchain for testing.
-IPFS (InterPlanetary File System): For decentralized storage and sharing of files on the blockchain.
-☁️ Cloud & DevOps:
-AWS S3: Storing files in scalable cloud storage.
-Docker: Containerizing applications for easier deployments and testing.
-Heroku: Deploying web applications quickly and efficiently.
-⚡ Other Tools:
-Git & GitHub: Version control and collaboration.
-Postman: API testing and documentation.
-Figma: Designing web interfaces.
-🔗 In-Depth Blockchain Experience
-📜 Smart Contracts:
-I have extensive experience in writing Smart Contracts using Solidity. I've developed various decentralized applications (dApps) on the Ethereum blockchain. My experience includes:
+    <section class="currently-learning container">
+        <div class="content">
+            <h2>What I'm Currently Learning</h2>
+            <p>
+                Currently, I'm diving deeper into React.js while honing my skills in Next.js and NestJS for full-stack development. I’m also exploring various blockchain technologies, including smart contracts, Solidity, Ethereum, and Web3.js.
+            </p>
+        </div>
+    </section>
 
-ERC-20 and ERC-721 standards for creating tokens and NFTs.
-Implementing Smart Contracts for decentralized voting, token exchanges, and governance systems.
-DeFi (Decentralized Finance) solutions, such as staking and yield farming smart contracts.
-🔗 Decentralized Applications (dApps):
-Frontend: Building interactive UIs for dApps using React.js and connecting them to the Ethereum blockchain using Web3.js.
-Backend: Utilizing IPFS to store files in a decentralized manner and interact with smart contracts via Web3.js.
-Blockchain Wallets: Integrating MetaMask and other wallets for user authentication and blockchain transactions.
-⛓️ Blockchain Architecture:
-Understanding the decentralized nature of blockchain, its consensus mechanisms (e.g., Proof of Work and Proof of Stake), and the implications of decentralized vs. centralized systems.
-Experience in creating secure, immutable, and transparent applications that leverage the full potential of blockchain.
-🛠️ Development Tools:
-Truffle & Ganache: Used for testing smart contracts in local environments and deploying them on test networks like Rinkeby.
-Remix IDE: A browser-based IDE for writing, compiling, and testing smart contracts directly on the blockchain.
-📈 GitHub Stats
+    <section class="skills container">
+        <div class="content">
+            <h2>My Tech Stack & Tools</h2>
+            <ul>
+                <li><strong>Frontend Development:</strong> React.js, Next.js, HTML5/CSS3, Bootstrap, JavaScript</li>
+                <li><strong>Backend Development:</strong> Node.js, Express.js, NestJS, MongoDB</li>
+                <li><strong>Blockchain:</strong> Solidity, Ethereum, Smart Contracts, Web3.js, IPFS</li>
+                <li><strong>Cloud & DevOps:</strong> AWS S3, Docker, Heroku</li>
+                <li><strong>Other Tools:</strong> Git & GitHub, Postman, Figma</li>
+            </ul>
+        </div>
+    </section>
 
-🤝 Let's Connect!
-[![LinkedIn Link](https://img.shields.io/badge/Connect-sanwalkhan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/thissanwal)
+    <section class="blockchain container">
+        <div class="content">
+            <h2>In-Depth Blockchain Experience</h2>
+            <p>
+                I have extensive experience in developing decentralized applications (dApps) on the Ethereum blockchain. I specialize in writing smart contracts using Solidity, and have built various dApps involving token creation (ERC-20, ERC-721), decentralized finance (DeFi), and governance systems. I use tools like Truffle, Ganache, and Remix to test, deploy, and manage smart contracts, along with integrating blockchain solutions into full-stack applications using Web3.js.
+            </p>
+        </div>
+    </section>
+
+    <section class="tech-stack container">
+        <h2>Languages and Tools</h2>
+        <div>
+            <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" alt="JavaScript">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" alt="CSS3">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap">
+            <img src="https://tse3.mm.bing.net/th?id=OIP.KN7Rarh00ufEpB6SS2XwnwHaIq&pid=Api&P=0" alt="NestJS">
+            <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" alt="Python">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+            <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" alt="Dart">
+            <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="ReactJS">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" alt="jQuery">
+        </div>
+    </section>
+
+    <footer>
+        <p>Connect with me:</p>
+        <p>
+            <a href="#">LinkedIn</a> | <a href="#">Twitter</a> | <a href="#">Portfolio</a>
+        </p>
+        <p>Sanwal Khan © 2024</p>
+    </footer>
+
+</body>
+</html>
