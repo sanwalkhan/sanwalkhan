@@ -1,8 +1,7 @@
 ### Hi there, I'm Sanwal Khan 👋
 
-I'm a passionate **JavaScript Developer** specializing in building full-stack applications using the **MERN** stack, and exploring advanced topics like **Blockchain** and **AWS Cloud Technologies**. I enjoy learning new technologies and solving complex problems through code. My current focus is on enhancing my skills in **React.js**, **Blockchain**, and **Cloud Computing**.
+I'm a passionate **Full-Stack Blockchain Developer** specializing in building full-stack applications using the **MERN** stack and integrating blockchain solutions. I enjoy working on cutting-edge technologies like **Blockchain**, **Smart Contracts**, and **Cloud Computing** to solve complex problems. My current focus is on developing decentralized applications (dApps) and mastering cloud-based infrastructure.
 
-- 🌱 I’m currently learning **React.js** and **Blockchain Development**.
 - 👯 I’m looking to collaborate with other **React** and **JavaScript** developers on exciting projects.
 - 😄 Pronouns: He/Him
 
