@@ -65,4 +65,4 @@ I'm a passionate **Full-Stack Blockchain Developer** specializing in building fu
 
 ### 🔗 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/thissanwal)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-sanwalkhan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/thissanwal)
