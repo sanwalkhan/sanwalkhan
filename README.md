@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Blockchain Developer** specializing in building full-stack applications using the **MERN** stack and integrating blockchain solutions. I enjoy working on cutting-edge technologies like **Blockchain**, **Smart Contracts**, and **Cloud Computing** to solve complex problems. My current focus is on developing decentralized applications (dApps) and mastering cloud-based infrastructure.
 
-- 👯 I’m looking to collaborate with other **React** and **JavaScript** developers on exciting projects.
+- 👯 I’m looking to collaborate with other **JavaScript** engineers on exciting projects.
 - 😄 Pronouns: He/Him
 
 ---
@@ -35,31 +35,6 @@ I'm a passionate **Full-Stack Blockchain Developer** specializing in building fu
 - **AWS Lambda**: Experience with serverless computing using Lambda functions to execute code in response to events.
 - **AWS EC2**: Deployed web applications on scalable EC2 instances, managing security groups, and setting up auto-scaling.
 - **AWS RDS**: Configured and maintained relational databases like MySQL and PostgreSQL using AWS RDS for production-level applications.
-
----
-
-### 📚 Learning Goals:
-
-- 🔥 Expanding knowledge in **Blockchain scalability** and **Layer 2 solutions** like Optimistic Rollups and zk-SNARKs.
-- 📈 Diving deeper into **Microservices Architecture** and leveraging AWS for managing complex, distributed systems.
-- 💡 Exploring advanced **React** concepts like **server-side rendering** (SSR) with **Next.js**.
-
----
-
-### 💻 Languages and Tools:
-
-- **JavaScript**: Expertise in modern JavaScript frameworks and libraries.
-- **HTML5**: Proficient in semantic HTML and modern web standards.
-- **CSS3**: Skilled in designing responsive layouts using CSS, Flexbox, and Grid.
-- **Bootstrap**: Experience in building mobile-first responsive designs.
-- **React.js**: Building dynamic single-page applications (SPAs) with React.js.
-- **Python**: Experience in scripting and automation with Python.
-- **C++**: Understanding of object-oriented programming with C++.
-- **Dart**: Working knowledge of Dart for developing mobile applications.
-- **jQuery**: Familiar with using jQuery for DOM manipulation and event handling.
-- **Node.js**: Backend development using Node.js for building scalable server-side applications.
-- **MongoDB**: Database design and query optimization for NoSQL systems.
-- **AWS Cloud Services**: Knowledgeable in S3, Lambda, EC2, and RDS for cloud-based applications.
 
 ---
 
