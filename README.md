@@ -3,7 +3,7 @@
 I'm a passionate **Full-Stack Developer** specializing in building full-stack applications using the **MERN** stack and integrating blockchain solutions. I enjoy working on cutting-edge technologies like **Blockchain**, **Smart Contracts**, and **Cloud Computing** to solve complex problems. My current focus is on developing decentralized applications (dApps) and mastering cloud-based infrastructure.
 
 - 👯 I’m looking to collaborate with other **JavaScript** engineers on exciting projects.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Sanwal
 
 ---
 
